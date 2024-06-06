@@ -5,7 +5,7 @@ This tutorial provides a step-by-step guide to installing osTicket and its neces
 
 ## Environments and Technologies Used
 
----
+
 
 - [VMWare Workstation](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html.html) / [Microsoft Azure](https://azure.microsoft.com/en-us/free) / [Amazon Web Services](https://aws.amazon.com/)
 - Internet Information Services
@@ -13,13 +13,13 @@ This tutorial provides a step-by-step guide to installing osTicket and its neces
 
 ## Operating Systems Used
 
----
+
 
 - [Windows 11 Pro](https://www.microsoft.com/software-download/windows11)
 
 ## List of Prerequisites
 
----
+
 
 - Virtual Machine/Provisioned Machine
 - Administrator Privileges
@@ -27,7 +27,6 @@ This tutorial provides a step-by-step guide to installing osTicket and its neces
 
 ## Installation Steps
 
----
 
 This step-by-step guide can be accomplished in various environments, such as a local setup through VMWare Workstation or through a cloud provider like Microsoft Azure or AWS. Regardless of which setup you choose, it is essential to provision a Windows machine with internet connectivity and Administrator Privileges. 
 
